@@ -1,0 +1,95 @@
+body {
+    background-color: #0085CA;
+}
+
+p {
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+.menu {
+    background-color: #dbe2e5;
+    margin-left: 4em;
+    margin-right: 4em;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.paragraph-margins {
+    margin-left: 4em;
+    margin-right: 4em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1.5em;
+    background-color: rgb(84, 153, 189);
+    border-radius: 30px;
+    border: #7ca5ba;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.menu li {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.table-styling {
+    border-spacing: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blanchedalmond;
+    margin-left: 15em;
+    margin-right: 15em;
+}
+
+#centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  #FFFFFF;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.navigation:hover {
+    color: #0085CA;
+}
+
+.career-timelines .table-styling {
+    margin-top: 2em;
+    padding: 0.5em;
+    background-color: rgb(84, 153, 189);
+    border-radius: 30px;
+    border: #7ca5ba;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.navigation {
+    background-color: #dbe2e5;
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    margin-inline: 2em;
+}
+
+.quiz .table-styling {
+    margin-top: 2em;
+    padding: 0.5em;
+    background-color: rgb(47, 90, 138);
+    border-spacing: 50px;
+    border-radius: 30px;
+    border: #7ca5ba;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.answer-center {
+    text-align: center;
+}
